@@ -5,8 +5,11 @@ This C++ program is designed to demonstrate the modification of two integer vari
 Input:
 
 Enter the value for x: 8
+
 Enter the value for y: 5
 
 Output:
+
 Modified x: 13
+
 Modified y: 3
