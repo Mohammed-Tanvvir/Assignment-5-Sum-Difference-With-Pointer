@@ -1,14 +1,3 @@
-/*==========================================================
-
- Title:       Assignment 5 - Sum/Difference with Pointer
- Course:      CIS 2252
- Author:      <Mohammed Tanvvir>
- Date:        <08 /1 /23 >
- Description: This program ....
-
- ==========================================================
-*/
-
 #include <iostream>
 #include <string>
 #include <cmath>
